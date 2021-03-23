@@ -1,7 +1,0 @@
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\bin\Debug\Calculator.exe.config
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\bin\Debug\Calculator.exe
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\bin\Debug\Calculator.pdb
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\obj\Debug\Calculator.exe
-E:\Kursevi\c# i .net\YT kurs\Projekti\Beginning C#\beginning-csharp\Calculator\obj\Debug\Calculator.pdb
